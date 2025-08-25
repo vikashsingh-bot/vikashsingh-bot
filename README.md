@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is vikash singh mahrana and I'm a bca ai ml student , i am from uuttrakhand </h2>
+<h2 align="left">Hi 👋! My name is vikash singh mahrana and I'm a bca ai ml student , i am from uttrakhand </h2>
 
 ###
 
