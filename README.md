@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is vikash singh mahrana and I'm a student at mmdu currently persuing bca aiml, i am from uttrakhand </h2>
 
 ###
 
